@@ -1,0 +1,24 @@
+{
+  "name": "random-password",
+  "version": "0.1.0",
+  "description": "Generate random password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someus/random-password.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "random"
+  ],
+  "author": "Letian (http://www.letiantian.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someus/random-password/issues"
+  },
+  "homepage": "https://github.com/someus/random-password#readme"
+}
