@@ -1,11 +1,15 @@
 {
   "name": "random-password",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate random password.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/someus/random-password.git"
