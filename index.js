@@ -14,7 +14,7 @@ var generator = function(len, table) {
         len = 8;
     }
     for (var i=0; i<len; ++i) {
-        passwd += table[randomPos(0, table.length-1)];
+        passwd += table[randomPos(0, table.length)];
     }
     return passwd;
 };
